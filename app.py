@@ -472,9 +472,7 @@ def main():
     pending = sum(1 for a in action_items if a['status'] == 'pending')
     st.sidebar.metric("Pending Tasks", pending)
     
-    st.sidebar.markdown("---")
-    st.sidebar.markdown("### ⚙️ Settings")
-    st.sidebar.info("💡 **Tip:** Configure your OpenAI API key in `.env` file")
+  
     
     # Route to pages
     if page == "📧 Inbox":
