@@ -6,13 +6,19 @@ import json
 
 load_dotenv()
 
-api_key = os.getenv("GROQ_API_KEY")
-model = os.getenv("GROQ_MODEL", "llama3-70b-8192")
+try:
+    import streamlit as st
+    api_key = st.secrets.get("GROQ_API_KEY", os.getenv("GROQ_API_KEY"))
+    model = st.secrets.get("GROQ_MODEL", os.getenv("GROQ_MODEL", "llama3-70b-8192"))
+except:
+    api_key = os.getenv("GROQ_API_KEY")
+    model = os.getenv("GROQ_MODEL", "llama3-70b-8192")
 
 if not api_key:
-    raise ValueError("GROQ_API_KEY not found in .env file")
+    raise ValueError("GROQ_API_KEY not found. Please configure it in Streamlit secrets or .env file")
 
 llm = ChatGroq(groq_api_key=api_key, model_name=model, temperature=0.7)
+
 
 
 def call_llm(prompt, system_msg="You are a helpful assistant.", temp=0.7):
