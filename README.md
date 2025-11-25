@@ -442,14 +442,37 @@ This project demonstrates:
 
 ## 🚀 Future Enhancements
 
-Potential improvements:
-- Real email integration (Gmail, Outlook APIs)
-- Email thread tracking
-- Priority scoring
+### Real Email Integration
+
+Currently, the system uses a mock inbox for demonstration. To integrate with real email accounts, the following enhancements would be needed:
+
+**Gmail Integration:**
+- Implement OAuth 2.0 authentication flow
+- Use Gmail API to fetch user's emails
+- Real-time email sync with webhooks
+- Secure token storage per user
+
+**Outlook Integration:**
+- Microsoft Graph API integration
+- Azure AD authentication
+- Exchange server support
+
+**Technical Requirements:**
+- User authentication system (login/signup)
+- Per-user database isolation
+- Background workers for email syncing
+- Secure credential management
+- Rate limiting and quota management
+
+### Other Potential Improvements:
+- Email thread tracking and conversation history
+- Priority scoring using ML models
 - Calendar integration for meeting requests
-- Attachment handling
-- Multi-user support
+- Attachment handling and processing
+- Multi-user support with role-based access
 - Advanced search with semantic similarity
+- Email templates library for common responses
+- Analytics dashboard for inbox insights
 
 ---
 
