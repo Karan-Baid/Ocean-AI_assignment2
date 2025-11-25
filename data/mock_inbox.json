@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "sender": "john.smith@techcorp.com",
+    "subject": "Q4 Planning Meeting - Agenda Required",
+    "body": "Hi Team,\n\nI'd like to schedule our Q4 planning meeting for next Thursday at 2 PM. Please confirm your availability.\n\nCould you also send me your key priorities for Q4 so I can prepare the agenda?\n\nBest,\nJohn",
+    "timestamp": "2025-11-20T09:30:00",
+    "category": null
+  },
+  {
+    "id": 2,
+    "sender": "newsletter@techinsider.com",
+    "subject": "🚀 This Week in Tech: AI Breakthroughs and More",
+    "body": "Welcome to This Week in Tech!\n\nTop Stories:\n- New AI models released by major tech companies\n- Cybersecurity threats on the rise\n- Startup funding reaches new heights\n\nRead more at techinsider.com\n\nUnsubscribe | Update Preferences",
+    "timestamp": "2025-11-20T08:15:00",
+    "category": null
+  },
+  {
+    "id": 3,
+    "sender": "urgent-winner@lottery-claims.biz",
+    "subject": "CONGRATULATIONS! You've Won $1,000,000!!!",
+    "body": "Dear Lucky Winner,\n\nYou have been selected to receive $1,000,000 in our international lottery! To claim your prize, please send your bank details and a processing fee of $500.\n\nACT NOW! This offer expires in 24 hours!\n\nClick here to claim: http://suspicious-link.biz",
+    "timestamp": "2025-11-19T23:45:00",
+    "category": null
+  },
+  {
+    "id": 4,
+    "sender": "sarah.johnson@company.com",
+    "subject": "URGENT: Bug in Production - Need Fix by EOD",
+    "body": "Hi,\n\nWe have a critical bug in the payment processing module that's affecting customers. Error rate has jumped to 15%.\n\nCan you investigate and fix this by end of day? I've attached the error logs.\n\nThis is blocking our release.\n\nThanks,\nSarah",
+    "timestamp": "2025-11-21T14:30:00",
+    "category": null
+  },
+  {
+    "id": 5,
+    "sender": "hr@company.com",
+    "subject": "Reminder: Complete Annual Training by Nov 30",
+    "body": "Dear All,\n\nThis is a reminder to complete your mandatory annual compliance training modules by November 30th.\n\nModules to complete:\n1. Data Privacy and Security\n2. Workplace Ethics\n3. Harassment Prevention\n\nLog in to the portal: training.company.com\n\nPlease confirm completion by replying to this email.\n\nHR Department",
+    "timestamp": "2025-11-18T10:00:00",
+    "category": null
+  },
+  {
+    "id": 6,
+    "sender": "mike.chen@clientcorp.com",
+    "subject": "Project Alpha - Status Update",
+    "body": "Hi Team,\n\nHere's our progress update for Project Alpha:\n\n✅ Design phase completed\n✅ Backend API development at 80%\n🔄 Frontend development at 50%\n⏳ Testing phase - not started\n\nWe're on track for the December 15th launch. Next milestone review is scheduled for November 28th.\n\nLet me know if you have any concerns.\n\nMike",
+    "timestamp": "2025-11-21T11:20:00",
+    "category": null
+  },
+  {
+    "id": 7,
+    "sender": "deals@shopnow.com",
+    "subject": "🎉 Black Friday Early Access - 70% OFF Everything!",
+    "body": "EXCLUSIVE EARLY ACCESS!\n\nOur Black Friday sale starts NOW for VIP members!\n\n💰 70% OFF site-wide\n🚚 FREE shipping on all orders\n🎁 Extra 10% off with code: EARLY2025\n\nShop now: www.shopnow.com\n\nSale ends Sunday midnight!\n\n---\nYou're receiving this because you're a valued customer.\nUnsubscribe | Manage preferences",
+    "timestamp": "2025-11-21T06:00:00",
+    "category": null
+  },
+  {
+    "id": 8,
+    "sender": "emily.rodriguez@company.com",
+    "subject": "Meeting Notes: Architecture Review",
+    "body": "Hi all,\n\nThanks for joining today's architecture review. Here are the key takeaways:\n\nDecisions Made:\n- Migrate to microservices architecture\n- Use PostgreSQL for primary database\n- Implement Redis for caching\n\nAction Items:\n- @Alex: Create migration plan by next week\n- @Jamie: Research Redis setup options\n- @Sam: Document API contracts\n\nNext meeting: Nov 29, 3 PM\n\nEmily",
+    "timestamp": "2025-11-21T16:45:00",
+    "category": null
+  },
+  {
+    "id": 9,
+    "sender": "no-reply@github.com",
+    "subject": "[email-agent] Pull Request #42: Add email categorization feature",
+    "body": "A new pull request has been opened in your repository.\n\n#42 Add email categorization feature\nOpened by: @alex-dev\n\n+324 lines, -12 lines\n\nDescription:\nImplements LLM-based email categorization with customizable prompts. Includes unit tests and documentation.\n\nReview requested from: @you\n\nView PR: https://github.com/company/email-agent/pull/42",
+    "timestamp": "2025-11-20T15:30:00",
+    "category": null
+  },
+  {
+    "id": 10,
+    "sender": "calendar@company.com",
+    "subject": "Invitation: Team Standup @ Mon Nov 25, 2025 9am - 9:30am (EST)",
+    "body": "You have been invited to the following event:\n\nTeam Standup\nWhen: Monday, November 25, 2025 9:00am - 9:30am (EST)\nWhere: Zoom (link below)\n\nJoin Zoom Meeting: https://zoom.us/j/1234567890\n\nRecurring: Daily\n\nOrganizer: john.smith@techcorp.com\n\nGoing? Yes - No - Maybe",
+    "timestamp": "2025-11-21T08:00:00",
+    "category": null
+  },
+  {
+    "id": 11,
+    "sender": "support@cloudservices.com",
+    "subject": "Your monthly bill is ready",
+    "body": "Hello,\n\nYour monthly invoice for Cloud Services is now available.\n\nAccount: ACCT-789456\nBilling Period: November 1-30, 2025\nAmount Due: $1,247.89\nDue Date: December 5, 2025\n\nView Invoice: [Download PDF]\n\nServices included:\n- Compute instances: $890.00\n- Storage: $245.00  \n- Data transfer: $112.89\n\nQuestions? Contact support@cloudservices.com\n\nThank you for your business!",
+    "timestamp": "2025-11-21T07:00:00",
+    "category": null
+  },
+  {
+    "id": 12,
+    "sender": "rachel.green@partner.com",
+    "subject": "RE: Partnership Proposal Discussion",
+    "body": "Hi,\n\nThank you for sharing the partnership proposal. Our team has reviewed it and we're interested in moving forward.\n\nCould we schedule a call next week to discuss:\n1. Revenue sharing model\n2. Technical integration requirements\n3. Timeline and milestones\n4. Legal agreements\n\nI'm available Tuesday or Thursday afternoon. What works for you?\n\nLooking forward to collaborating!\n\nRachel",
+    "timestamp": "2025-11-20T13:15:00",
+    "category": null
+  },
+  {
+    "id": 13,
+    "sender": "security@company.com",
+    "subject": "Action Required: Unusual login activity detected",
+    "body": "SECURITY ALERT\n\nWe detected a login to your account from an unfamiliar device:\n\nLocation: Mumbai, India\nDevice: Windows PC / Chrome\nTime: Nov 21, 2025 2:30 PM IST\nIP: 203.192.xxx.xxx\n\nWas this you?\n\nIf YES: No action needed.\n\nIf NO: \n1. Change your password immediately\n2. Review recent account activity\n3. Enable two-factor authentication\n\nSecure your account: https://company.com/security\n\nIT Security Team",
+    "timestamp": "2025-11-21T09:05:00",
+    "category": null
+  },
+  {
+    "id": 14,
+    "sender": "promotions@newsletter.co",
+    "subject": "Learn Python in 30 Days - Free Course Inside!",
+    "body": "🎓 Want to become a Python developer?\n\nWe're offering our bestselling Python Masterclass for FREE!\n\nWhat you'll learn:\n✓ Python basics to advanced\n✓ Web development with Django\n✓ Data science with Pandas\n✓ Machine learning basics\n\n10,000+ students enrolled!\n⭐⭐⭐⭐⭐ 4.8/5 rating\n\nEnroll now: www.newsletter.co/python\n\nLimited spots available!\n\n---\nUnsubscribe from promotional emails",
+    "timestamp": "2025-11-19T12:00:00",
+    "category": null
+  },
+  {
+    "id": 15,
+    "sender": "david.lee@company.com",
+    "subject": "Code Review Request - User Authentication Module",
+    "body": "Hey,\n\nI've completed the user authentication module and would appreciate your review before merging.\n\nChanges:\n- Implemented JWT-based authentication\n- Added refresh token mechanism\n- Password reset functionality\n- OAuth integration (Google, GitHub)\n\nBranch: feature/user-auth\nFiles changed: 8 files\nTests: All passing (coverage: 94%)\n\nCould you review by tomorrow? I'd like to merge this for the upcoming sprint.\n\nThanks!\nDavid",
+    "timestamp": "2025-11-21T17:20:00",
+    "category": null
+  },
+  {
+    "id": 16,
+    "sender": "admin@meetup.com",
+    "subject": "You're invited: Tech Meetup - AI and Future of Work",
+    "body": "Hello!\n\nYou're invited to our upcoming tech meetup:\n\n📅 Event: AI and the Future of Work\n🗓️ Date: December 5, 2025\n⏰ Time: 6:30 PM - 9:00 PM\n📍 Location: Innovation Hub, Downtown\n\nAgenda:\n- Keynote: How AI is transforming industries\n- Panel discussion with industry leaders\n- Networking session\n- Food & drinks provided\n\nRSVP: www.meetup.com/tech-events/rsvp\n\nLimited seats - register now!\n\nSee you there!",
+    "timestamp": "2025-11-20T10:30:00",
+    "category": null
+  },
+  {
+    "id": 17,
+    "sender": "jessica.wang@company.com",
+    "subject": "Budget Approval Needed for Q1 2026",
+    "body": "Hi,\n\nI need your approval on the Q1 2026 budget proposal for our department.\n\nKey items:\n- New hiring: 3 engineers ($450K)\n- Cloud infrastructure upgrade ($85K)\n- Software licenses ($35K)\n- Training and development ($25K)\n\nTotal: $595K (8% increase from Q4 2025)\n\nPlease review the attached spreadsheet and approve by November 27th so we can finalize plans.\n\nLet me know if you have questions.\n\nJessica",
+    "timestamp": "2025-11-21T10:45:00",
+    "category": null
+  },
+  {
+    "id": 18,
+    "sender": "spam-bot@random-domain.xyz",
+    "subject": "Re: Re: Fwd: Check this out!!!",
+    "body": "Hey!!!\n\nYou WON'T BELIEVE what I found!!! 😱😱😱\n\nClick here for SHOCKING news: http://bit.ly/random123\n\nDON'T MISS OUT!!!\n\n---\nSent from my iPhone\nForwarded 47 times\n\nThis email may contain viruses. Click all links to verify safety.",
+    "timestamp": "2025-11-19T03:22:00",
+    "category": null
+  },
+  {
+    "id": 19,
+    "sender": "mom@family.com",
+    "subject": "Family Dinner This Weekend?",
+    "body": "Hi sweetie,\n\nHope you're doing well! It's been a while since we all got together.\n\nWould you like to come over for dinner this Sunday? I'm making your favorite pasta. Your brother and sister will be here too.\n\nLet me know if you can make it! Around 6 PM?\n\nLove,\nMom\n\nP.S. - Don't forget to call your grandmother, it's her birthday next week! 🎂",
+    "timestamp": "2025-11-21T15:30:00",
+    "category": null
+  },
+  {
+    "id": 20,
+    "sender": "tom.brown@company.com",
+    "subject": "Documentation Update Required",
+    "body": "Team,\n\nOur API documentation is outdated and causing confusion for new developers.\n\nCould someone please update:\n1. Authentication endpoints (new OAuth flow)\n2. Rate limiting policies (changed last month)\n3. Error code reference (missing several codes)\n4. Example requests/responses\n\nThis should be done before onboarding our new team members next week.\n\nWho can take ownership of this?\n\nTom",
+    "timestamp": "2025-11-21T12:00:00",
+    "category": null
+  }
+]
